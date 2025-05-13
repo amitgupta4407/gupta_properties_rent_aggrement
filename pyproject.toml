@@ -1,0 +1,11 @@
+[project]
+name = "rent-aggrement"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "inflect>=7.5.0",
+    "python-docx>=1.1.2",
+    "streamlit>=1.45.0",
+]
